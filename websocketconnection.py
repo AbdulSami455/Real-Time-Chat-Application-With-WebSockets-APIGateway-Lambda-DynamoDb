@@ -1,11 +1,13 @@
 
-#These all are Module REquired for Working
+#These all are Module Required for Working
 import json
 import boto3
 import os
 
 dynamodb = boto3.client('dynamodb')
 
+
+#Main Lambda Function
 def lambda_handler(event, context):
     connectionId = event['requestContext']['connectionId']
 
