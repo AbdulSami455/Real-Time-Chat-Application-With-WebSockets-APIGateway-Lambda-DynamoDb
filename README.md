@@ -4,3 +4,4 @@ Real Time Chat Application with WebSockets (AWS Services--Aws Lambda,API-Gateway
 Real Time Chat Application
 
 
+![SystemDiagram](https://github.com/AbdulSami455/Real-TIme-Chat-Application-With-WebSockets-APIGateway-Lambda-DynamoDb/assets/111019622/f23754ea-921e-4ebe-92bb-2e81a5e8816a)
